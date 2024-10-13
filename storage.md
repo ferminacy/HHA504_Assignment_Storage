@@ -9,4 +9,4 @@ Python code for uploading files to Azure Blob Storage
 Python code for uploading files to GCP Cloud Storage
 
 Notes on storage management and security features in Azure and GCP
-
+The security features on Azure were helpful and detected keys.
