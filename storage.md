@@ -4,6 +4,7 @@ Screenshots of GUI Azure
 Screenshots of GUI GCP
 
 Python code for uploading files to Azure Blob Storage 
+<img width="1440" alt="Screen Shot 2024-10-12 at 11 24 52 PM" src="https://github.com/user-attachments/assets/b6b79070-1c06-4ae7-a684-92cbc5b6696a">
 
 Python code for uploading files to GCP Cloud Storage
 
