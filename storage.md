@@ -9,7 +9,7 @@ Python code for uploading files to Azure Blob Storage
 
 Python code for uploading files to GCP Cloud Storage
 <img width="1440" alt="Screen Shot 2024-10-13 at 10 31 11 PM" src="https://github.com/user-attachments/assets/84c8ba15-6a78-4628-aef0-e1dbfc5c3439">
-does it matter which one i choose ?
+does it matter which one i choose ? also, given the code i was not able to get it to work, some options i was unsure about whether i was choosing a safe option.
 
 Notes on storage management and security features in Azure and GCP
 The security features on Azure were helpful and detected keys.
